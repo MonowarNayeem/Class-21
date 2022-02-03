@@ -1,0 +1,12 @@
+.main-header{
+    width: 95%;
+    margin: 0 auto;
+    max-width: 1500px;
+}
+/* Slider section */
+.carousel-item{
+    height: 90vh;
+}
+.carousel-caption{
+    margin-bottom: 220px;
+}
